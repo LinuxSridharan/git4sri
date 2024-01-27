@@ -6,3 +6,4 @@ y
 u
 merge
 jjj
+edit from master, what shows in srigit
